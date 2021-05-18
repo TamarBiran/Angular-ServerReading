@@ -1,0 +1,57 @@
+[
+    {
+        "name":"aaa",
+        "id": 1,
+        "salary": 15000
+    },
+    {
+        "name":"bbb",
+        "id": 2,
+        "salary": 10000
+    },
+    {
+        "name":"ccc",
+        "id": 2,
+        "salary": 8000
+    },
+    {
+        "name":"ddd",
+        "id": 2,
+        "salary": 12000
+    },
+    {
+        "name":"eee",
+        "id": 3,
+        "salary": 15000
+    },
+    {
+        "name":"fff",
+        "id": 3,
+        "salary": 8500
+    },
+    {
+        "name":"ggg",
+        "id": 3,
+        "salary": 10500
+    },
+    {
+        "name":"hhh",
+        "id": 3,
+        "salary": 9000
+    },
+    {
+        "name":"iii",
+        "id": 3,
+        "salary": 11000
+    },
+    {
+        "name":"jjj",
+        "id": 4,
+        "salary": 5000
+    },
+    {
+        "name":"kkk",
+        "id": 4,
+        "salary": 5500
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "describe": "Director"
+    },
+    {
+        "id": 2,
+        "describe": "Secretary"
+    },
+    {
+        "id": 3,
+        "describe": "Teacher"
+    },
+    {
+        "id": 4,
+        "describe": "Cleaner"
+    }
+]

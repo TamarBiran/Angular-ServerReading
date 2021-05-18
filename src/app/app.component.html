@@ -1,0 +1,4 @@
+<button (click)="setShowMe(1)">workers</button>
+<button (click)="setShowMe(2)">roles</button>
+<app-workers *ngIf="showMe == 1"></app-workers>
+<app-roles *ngIf="showMe == 2"></app-roles>
